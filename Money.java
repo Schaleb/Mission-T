@@ -20,7 +20,7 @@ public class Money
 	*/
 	public void showMoney()
 	{
-		System.out.println("Balance: $" + balance + "\nBank: $" + bank + "\nInterest Gained: $" + interest);
+		System.out.println("\nBalance: $" + balance + "\nBank: $" + bank + "\nInterest Gained: $" + interest);
 	}
 
 	// getters

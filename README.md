@@ -1,2 +1,2 @@
 # Mission-T
-little game for myself
+text adventure game made by a student bored in apcsa, for fun but do whatever you want with it :)
